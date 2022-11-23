@@ -1,6 +1,9 @@
 # Phaser-Isometric-Demo
 Isometric game demo for Phaser 3.5
 
+![immagine](https://user-images.githubusercontent.com/1620953/203594128-27c3ec0b-9b79-4778-8df7-28a187cd03e0.png)
+
+
 [Live demo](https://jumpjack.github.io/phaser-isometric-demo/docs/) is in [/docs folder](https://github.com/jumpjack/phaser-isometric-demo/tree/main/docs).
 
 Another isometric demo, but without sprite for player, is on Phaser site:
