@@ -4,19 +4,19 @@ Isometric game demo for Phaser 3.5
 ![immagine](https://user-images.githubusercontent.com/1620953/203594128-27c3ec0b-9b79-4778-8df7-28a187cd03e0.png)
 
 
-[Live demo](https://jumpjack.github.io/phaser-isometric-demo/docs/) is in [/docs folder](https://github.com/jumpjack/phaser-isometric-demo/tree/main/docs).
+ - [Live demo](https://jumpjack.github.io/phaser-isometric-demo/docs/) is in [/docs folder](https://github.com/jumpjack/phaser-isometric-demo/tree/main/docs) (but it needs the files in **src** folder).
 
-Another isometric demo, but without sprite for player, is on Phaser site:
+ - Another isometric demo, but without sprite for player, is on Phaser site:
 
 ![immagine](https://user-images.githubusercontent.com/1620953/203593434-d4ce2ba3-6f90-4067-835b-faf6f334d9ca.png)
-
 
  - [Editor](http://labs.phaser.io/edit.html?src=src%5Ctilemap%5Cisometric%5Cisometric%20test.js)
  - [Folder for .js source code](http://labs.phaser.io/src/tilemap/isometric/)
  - [Map](http://labs.phaser.io/assets/tilemaps/iso/isorpg.json)  (JSON in Tiled format)
  - [Folder of map](http://labs.phaser.io/assets/tilemaps/iso/)
- - 
+ 
 
+-----------------
 
 # Original readme.md
 The demo is based on the following tutorial for Phaser 2 and rewritten for the newest version of Phaser. Scene management and depth sorting is now native to Phaser and Webpack is used to support bundling and ES6.
