@@ -1,28 +1,29 @@
 # Phaser-Isometric-Demo
 Isometric game demo for Phaser 3.5
 
-* Online editor (sandbox): 
-    * [Platform tutorial with player](https://phaser.io/sandbox/edit/3)
-* Online editor 2 (labs): 
-    * [isometric example, grass and water with NPC sprites, no player](https://labs.phaser.io/edit.html?src=src/depth%20sorting/isometric%20map.js&v=3.55.2) 
-    * [isometric example, castle without sprites, no player](https://labs.phaser.io/edit.html?src=src\tilemap\isometric\isometric%20test.js&v=3.55.2)
-    * [platform tutorial with controllable player sprite](https://labs.phaser.io/edit.html?src=src\games\firstgame\part7.js)
-* Online editor 3: [link](https://phasereditor2d.com/start/)
+ - [This repo: Isometric demo with controllable player, NPC and rooms](https://jumpjack.github.io/phaser-isometric-demo/docs/) is in [/docs folder](https://github.com/jumpjack/phaser-isometric-demo/tree/main/docs) (but it needs the files in **src** folder).
 
 ![immagine](https://user-images.githubusercontent.com/1620953/203594128-27c3ec0b-9b79-4778-8df7-28a187cd03e0.png)
 
+Other examples:
 
- - [Live demo](https://jumpjack.github.io/phaser-isometric-demo/docs/) is in [/docs folder](https://github.com/jumpjack/phaser-isometric-demo/tree/main/docs) (but it needs the files in **src** folder).
-
- - Another isometric demo, but without sprite for player, is on Phaser site:
-
+* Online editor 1 (sandbox): 
+    * [Platform tutorial with player](https://phaser.io/sandbox/edit/3)
+* Online editor 2 (labs): 
+    * [platform tutorial with controllable player sprite](https://labs.phaser.io/edit.html?src=src\games\firstgame\part7.js)
+    * [isometric example, grass and water with NPC sprites, no player](https://labs.phaser.io/edit.html?src=src/depth%20sorting/isometric%20map.js&v=3.55.2) 
+    * [isometric example, castle without sprites, no player](https://labs.phaser.io/edit.html?src=src\tilemap\isometric\isometric%20test.js&v=3.55.2)
+  
 ![immagine](https://user-images.githubusercontent.com/1620953/203593434-d4ce2ba3-6f90-4067-835b-faf6f334d9ca.png)
 
- - [Editor](http://labs.phaser.io/edit.html?src=src%5Ctilemap%5Cisometric%5Cisometric%20test.js)
- - [Folder for .js source code](http://labs.phaser.io/src/tilemap/isometric/)
- - [Map](http://labs.phaser.io/assets/tilemaps/iso/isorpg.json)  (JSON in Tiled format)
- - [Folder of map](http://labs.phaser.io/assets/tilemaps/iso/)
- 
+   - [Editor](http://labs.phaser.io/edit.html?src=src%5Ctilemap%5Cisometric%5Cisometric%20test.js)
+   - [Folder for .js source code](http://labs.phaser.io/src/tilemap/isometric/)
+   - [Map](http://labs.phaser.io/assets/tilemaps/iso/isorpg.json)  (JSON in Tiled format)
+   - [Folder of map](http://labs.phaser.io/assets/tilemaps/iso/)
+        
+ * Online editor 3 (gitpod): 
+    * [Link](https://phasereditor2d.com/start/)
+
 
 -----------------
 
