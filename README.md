@@ -1,7 +1,7 @@
 # Phaser-Isometric-Demo
 Isometric game demo for Phaser 3.5
 
- - [This repo: Isometric demo with controllable player, NPC and rooms](https://jumpjack.github.io/phaser-isometric-demo/docs/) is in [/docs folder](https://github.com/jumpjack/phaser-isometric-demo/tree/main/docs) (but it needs the files in **src** folder).
+ - [This repo: Isometric demo with controllable player, collision,  collectables, NPC and rooms](https://jumpjack.github.io/phaser-isometric-demo/docs/) is in [/docs folder](https://github.com/jumpjack/phaser-isometric-demo/tree/main/docs) (but it needs the files in **src** folder).
 
 ![immagine](https://user-images.githubusercontent.com/1620953/203594128-27c3ec0b-9b79-4778-8df7-28a187cd03e0.png)
 
